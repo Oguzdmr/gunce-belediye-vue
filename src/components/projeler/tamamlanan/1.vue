@@ -37,8 +37,8 @@
 
                     <!--Team Box End-->
                   </div>
-                  <div class="row listele">
-                    <a class="sayfanumarasi" href="1.html">1</a>
+                  <div class="row listele">,
+                    <router-link tag="a" to="/projeler/tamamlanan/1" class="sayfanumarasi">1</router-link>
                   </div>
                   <!--Team End-->
                 </div>

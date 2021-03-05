@@ -33,13 +33,13 @@
                     <li class="edate"><strong>26 Ağu, 2019</strong></li>
                     <li class="event-title" style="width:100%;">
                       <h6>
-                        <router-link tag="a" to="/duyurudetay/62">
+                        <router-link tag="a" to="/home/duyurudetay/62">
                         Belediye uygulamamızı indirip bize geri dönüş yapmayı
                           unutmayınız...
                         </router-link> 
                       </h6>
                       <p>
-                        <router-link tag="a" to="/duyurudetay/62">
+                        <router-link tag="a" to="/home/duyurudetay/62">
                         Duyuru detayları için tıklayınız.
                         </router-link>
                         
@@ -52,14 +52,14 @@
                     <li class="edate"><strong>26 Ağu, 2019</strong></li>
                     <li class="event-title" style="width:100%;">
                       <h6>
-                        <router-link tag="a" to="/duyurudetay/61">
+                        <router-link tag="a" to="/home/duyurudetay/61">
                         Belediyemiz hizmetlerine bir yenisini daha ekledi.
                           Artık Play Store ve App Store'dayız.
                         </router-link>
                         
                       </h6>
                       <p>
-                        <router-link tag="a" to="/duyurudetay/61">
+                        <router-link tag="a" to="/home/duyurudetay/61">
                         Duyuru detayları için tıklayınız.
                         </router-link>
                         
@@ -72,14 +72,14 @@
                     <li class="edate"><strong>26 Ağu, 2019</strong></li>
                     <li class="event-title" style="width:100%;">
                       <h6>
-                        <router-link tag="a" to="/duyurudetay/60">
+                        <router-link tag="a" to="/home/duyurudetay/60">
                         Belediye Başkanımız Ahmet GÜNCELİ'nin sizlere mesajı
                           var.
                         </router-link>
                         
                       </h6>
                       <p>
-                        <router-link tag="a" to="/duyurudetay/60">
+                        <router-link tag="a" to="/home/duyurudetay/60">
                         Duyuru detayları için tıklayınız.
                         </router-link>
                         
@@ -92,14 +92,14 @@
                     <li class="edate"><strong>26 Ağu, 2019</strong></li>
                     <li class="event-title" style="width:100%;">
                       <h6>
-                        <router-link tag="a" to="/duyurudetay/59">
+                        <router-link tag="a" to="/home/duyurudetay/59">
                         Belediyemize Fen İşleri biriminde çalışacak 2
                           personel alınacaktır.
                         </router-link>
                         
                       </h6>
                       <p>
-                        <router-link tag="a" to="/duyurudetay/59">
+                        <router-link tag="a" to="/home/duyurudetay/59">
                         Duyuru detayları için tıklayınız.
                         </router-link>
                         
@@ -112,11 +112,11 @@
                     <li class="edate"><strong>26 Ağu, 2019</strong></li>
                     <li class="event-title" style="width:100%;">
                       <h6>
-                        <router-link tag="a" to="/duyurudetay/58">Belediye Kültür Evimiz hizmete girdi.</router-link>
+                        <router-link tag="a" to="/home/duyurudetay/58">Belediye Kültür Evimiz hizmete girdi.</router-link>
                         
                       </h6>
                       <p>
-                        <router-link tag="a" to="/duyurudetay/58">
+                        <router-link tag="a" to="/home/duyurudetay/58">
                         Duyuru detayları için tıklayınız.
                         </router-link>
                         

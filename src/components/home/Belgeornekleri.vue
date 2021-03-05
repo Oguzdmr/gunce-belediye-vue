@@ -14,7 +14,7 @@
         <div class="container">
           <h2>Belge &#214;rnekleri</h2>
           <ul>
-            <li><a href="../index.html">Anasayfa</a></li>
+            <li><a href="/">Anasayfa</a></li>
             <li>Belge &#214;rnekleri</li>
           </ul>
         </div>

@@ -75,9 +75,8 @@
                           g&#252;l&#252;yorum duyulmamış sarmal a&#231;ılmadan
                           dolayı salladı gitti de.
                         </p>
-                        <a class="contact-team" href="baskanasor.html"
-                          >Başkana Sor</a
-                        >
+                        <router-link tag="a" to="/home/baskanasor" class="contact-team">Başkana Sor</router-link>
+                        
                         <ul class="member-social">
                           <li>Sosyal Medya:</li>
                           <li>

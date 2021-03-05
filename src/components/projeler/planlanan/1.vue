@@ -38,7 +38,7 @@
                     <!--Team Box End-->
                   </div>
                   <div class="row listele">
-                    <a class="sayfanumarasi" href="1.html">1</a>
+                    <router-link tag="a" to="/projeler/planlanan/1" class="sayfanumarasi">1</router-link>
                   </div>
                   <!--Team End-->
                 </div>

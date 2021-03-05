@@ -14,7 +14,7 @@
         <div class="container">
           <h2>Birimlerimiz</h2>
           <ul>
-            <li><a href="../index.html">Anasayfa</a></li>
+            <li><a href="/">Anasayfa</a></li>
             <li>Birimlerimiz</li>
           </ul>
         </div>
@@ -32,7 +32,7 @@
                   <div class="row">
                     <!--Team Box Start-->
                     <div class="col-md-4 col-sm-6 acilirkutu">
-                      <a href="../birimler/ornek-birim-24.html"
+                      <a href="/birimler/ornek-birim-24"
                         ><div
                           class="team-box"
                           style="height:430px; overflow:hidden;"
@@ -55,7 +55,7 @@
                       >
                     </div>
                     <div class="col-md-4 col-sm-6 acilirkutu">
-                      <a href="../birimler/ornek-birim-25.html"
+                      <a href="/birimler/ornek-birim-25"
                         ><div
                           class="team-box"
                           style="height:430px; overflow:hidden;"
@@ -78,7 +78,7 @@
                       >
                     </div>
                     <div class="col-md-4 col-sm-6 acilirkutu">
-                      <a href="../birimler/ornek-birim-26.html"
+                      <a href="/birimler/ornek-birim-26"
                         ><div
                           class="team-box"
                           style="height:430px; overflow:hidden;"

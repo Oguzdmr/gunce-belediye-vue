@@ -9,7 +9,7 @@
       <section
         id="baslik"
         class="wf100 subheader"
-        style="background:url(../../../../public/admin.togdem.com/AdminPanel_Assets/img/resimGuncelle/9/20201005152448130.jpg) no-repeat;background-size:cover; "
+        style="background-image:url(../../../../public/admin.togdem.com/AdminPanel_Assets/img/resimGuncelle/9/20201005152448130.jpg) no-repeat;background-size:cover; "
       >
         <div class="container">
           <h2>Duyurular</h2>

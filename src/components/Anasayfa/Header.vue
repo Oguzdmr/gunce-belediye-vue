@@ -258,9 +258,9 @@
                     
                     <router-link tag="li" to="/home/birfikrimvar"><a>Bir Fikrim Var</a></router-link>
                     
-                    <li><a href="index.html">Şehir Kameraları</a></li>
+                    <li><a href="/">Şehir Kameraları</a></li>
                     <li>
-                      <a href="home/belgeOrnekleri.html">Nikah Belgeleri</a>
+                      <a href="/home/belgeOrnekleri">Nikah Belgeleri</a>
                     </li>
                     <router-link tag="li" to="/home/belgeornekleri"
                       ><a>Belge Örnekleri</a></router-link
